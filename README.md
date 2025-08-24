@@ -1,0 +1,2 @@
+First website with The Odin Project.
+I will learn how to create html-boilerplate, how to work with text, how to add links and images. And of course how to work with git and github and how to add commits. I wish my futureself not to give up! :)
